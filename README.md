@@ -2,7 +2,7 @@
 Udacity IPND Final Project 
 
 ## Components:
-* `index.html`: The app front-end html code
+* ```index.html```: The app front-end html code
 * `app.js`: The app back-end JavaScript code
 * `app.css`: The app styling and design CSS code
 * `geometry2.png`: The app background image
