@@ -1,2 +1,2 @@
 # MemoryGame
-Udacity IPND final project Front-End specialization 
+Udacity IPND Final Project - [MemoryGame][index.html]
