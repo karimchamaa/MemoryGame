@@ -1,2 +1,2 @@
 # MemoryGame
-Udacity IPND Final Project - [MemoryGame][index.html]
+Udacity IPND Final Project - [MemoryGame](index.html)
