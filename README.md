@@ -1,2 +1,2 @@
 # Memory Game
-Udacity IPND Final Project - [MemoryGame](https://poblue.github.io/MemoryGame/)
+Udacity IPND Final Project - [MemoryGame](http://htmlpreview.github.com/?https://github.com/karimchamaa/MemoryGame/blob/master/index.html)
