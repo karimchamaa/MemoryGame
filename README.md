@@ -1,2 +1,2 @@
-# MemoryGame
-Udacity IPND Final Project - [MemoryGame](https://rawgit.com/index.html)
+# Memory Game
+Udacity IPND Final Project - [MemoryGame](https://poblue.github.io/MemoryGame/)
